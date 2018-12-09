@@ -1,2 +1,2 @@
 # geographical-determinism
-A geographical cost study of Medical Schools.
+A geospatial cost analysis of Medical Schools.
